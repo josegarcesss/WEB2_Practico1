@@ -4,8 +4,6 @@ const obj2 = { edad: 25, pelo: 'largo', barba: true };
 let res1 = document.getElementById("res1");
 let res2 = document.getElementById("res2");
 
-
-
 let contiene = (obj1, obj2) => {
     let resultado = true;
     let keys1 = Object.keys(obj1);

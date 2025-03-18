@@ -1,0 +1,27 @@
+body{
+    background-color: burlywood;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    margin: 5px;
+    padding: 10px;
+    background-color: brown;
+    
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+
+#Ej1, #Ej2{
+    background-color: bisque;
+    margin: 0px 5px;
+    border: solid 2px black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
